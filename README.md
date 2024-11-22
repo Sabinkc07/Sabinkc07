@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sabinkc07
 - 👀 I’m interested in App & Web Development 
-- 🌱 I’m currently learning Python & Java 
+- 🌱 I’m currently learning Python, AI and Data science 
 -  📫 How to reach me heysabinkc@gmail.com
 
 <!---
